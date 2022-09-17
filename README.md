@@ -1,3 +1,6 @@
+# Priscilla Deng
+Please note that this repo is a clone of the [Assignment_1_starter_template](https://github.com/ECE444-2022Fall/Assignment_1_starter_template). 
+
 # Assignment 1: Education Pathway
 
 This repository host the source code for Education Pathway project. You can view the online deployed version [here](https://assignment-1-starter-template.herokuapp.com/). We are using this repo as a starting point for assignment 1.
